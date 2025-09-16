@@ -76,7 +76,7 @@
 
 <p></p>
 
-<h3>🕹️ Regras & mecânicas:</h3>
+<h3>🕹️ Regras e mecânicas:</h3>
 
 <b>Jogadores:</b>
 
