@@ -81,7 +81,7 @@
 <b>Jogadores:</b>
 
 <input type="checkbox" id="jogadores-item" />
-<label for="jogadores-item">O Computador deve receber dois personagens para disputar a corrida em um objeto cada</label>
+<label for="jogadores-item">O Computador deve receber dois personagens para disputar a corrida em um objeto cada.</label>
 
 <b>Pistas:</b>
 
